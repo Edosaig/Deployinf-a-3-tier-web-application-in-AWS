@@ -49,8 +49,11 @@ cd /var/www/html	(both server)
 		Browse DNS of LB. working? Refresh again
 
 ![image](https://github.com/Edosaig/Deploying-a-3-tier-web-application-in-AWS/assets/107155943/d3e4dc82-5450-445c-bbf4-1f093736f293)
+
 ![image](https://github.com/Edosaig/Deploying-a-3-tier-web-application-in-AWS/assets/107155943/69b78ed7-5426-4a79-bd5c-1adc09487ca4)
+
 ![image](https://github.com/Edosaig/Deploying-a-3-tier-web-application-in-AWS/assets/107155943/ecb51514-26ae-4b0b-b738-f72e5741ce9a)
+
 ![image](https://github.com/Edosaig/Deploying-a-3-tier-web-application-in-AWS/assets/107155943/c7aacd27-4d87-4c84-b9ad-fba46876a31f)
 
 # STEP3: DATABASE
